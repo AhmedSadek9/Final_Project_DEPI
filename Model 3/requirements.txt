@@ -1,0 +1,4 @@
+gradio
+PyPDF2
+pdfplumber
+langchain-groq
