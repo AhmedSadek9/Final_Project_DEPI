@@ -1,0 +1,11 @@
+pdfplumber
+openai
+faiss-cpu
+numpy
+fastapi
+uvicorn
+pypdf
+sentence-transformers
+torch
+transformers
+streamlit
